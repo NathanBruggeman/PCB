@@ -1,0 +1,13 @@
+Replace Part B1 GBU6J in C:\Altium\Soldeerbout_V2\1.SchDoc with GBU6J from B1_B2.SchLib
+Replace Part B2 GBU6J in C:\Altium\Soldeerbout_V2\1.SchDoc with GBU6J from B1_B2.SchLib
+Replace Part C1 ESK478M050AQ3AA in C:\Altium\Soldeerbout_V2\1.SchDoc with ESK478M050AQ3AA from Condensator_4700µF_V2.SchLib
+Replace Part C4 ESK107M050AG3EA in C:\Altium\Soldeerbout_V2\1.SchDoc with ESK107M050AG3EA from Condensator_100µF_V2.SchLib
+Replace Part C5 ECA-1HM100 in C:\Altium\Soldeerbout_V2\1.SchDoc with ECA-1HM100 from Condensator_10µF_V2.SchLib
+Replace Part D1 1N4007-B in C:\Altium\Soldeerbout_V2\1.SchDoc with 1N4007-B from D1.SchLib
+Replace Part D2 TZMC5V1-GS08 in C:\Altium\Soldeerbout_V2\1.SchDoc with TZMC5V1-GS08 from D2.SchLib
+Replace Part IC1 TL780-05CKTTR in C:\Altium\Soldeerbout_V2\1.SchDoc with TL780-05CKTTR from IC1.SchLib
+Replace Part K1 TB007-508-02BE in C:\Altium\Soldeerbout_V2\1.SchDoc with TB007-508-02BE from K1_K2_K3_K8.SchLib
+Replace Part K2 TB007-508-02BE in C:\Altium\Soldeerbout_V2\1.SchDoc with TB007-508-02BE from K1_K2_K3_K8.SchLib
+Replace Part R3 CFN0805-FZ-R030ELF in C:\Altium\Soldeerbout_V2\1.SchDoc with CFN0805-FZ-R030ELF from Weerstand_0805.SchLib
+Replace Part R6 CFN0805-FZ-R030ELF in C:\Altium\Soldeerbout_V2\1.SchDoc with CFN0805-FZ-R030ELF from Weerstand_0805.SchLib
+Update Managed Component RE1 From CMP-03395-000087-1[RT424005] To CMP-03395-000087-1[RT424005] in 1.SchDoc
